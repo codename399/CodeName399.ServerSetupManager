@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CodeName399.ServerSetupManager.slnx/FileContentIndex
+/bin/Release/net8.0-windows/win-x64
+/obj
+/README.md
+/.vs/CodeName399.ServerSetupManager.slnx/v18
